@@ -1,0 +1,28 @@
+# README: https://laravel.com/docs/5.3/homestead
+---
+box: "laravel/homestead"
+version: ">= 0.4.0, < 0.5.0"
+
+ip: "192.168.111.78"
+memory: 1024
+cpus: 1
+
+# One of virtualbox, vmware_fusion, vmware_workstation, parallels
+provider: virtualbox
+# How guest VM identifies itself
+hostname: opbeat-demo
+# Name, visible in VirtualBox UI
+name: opbeat-demo
+
+authorize: ~/.ssh/id_rsa.pub
+
+keys:
+    - ~/.ssh/id_rsa
+
+folders:
+    - map: "."
+      to: "/home/vagrant/development"
+
+sites:
+    - map: opbeat.lo
+      to: "/home/vagrant/development/public"
