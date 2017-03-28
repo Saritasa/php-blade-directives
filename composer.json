@@ -17,8 +17,9 @@
     "require-dev": {
         "phpunit/phpunit": "~5.7"
     },
+    "minimum-stability": "stable",
     "autoload": {
-        "psr-0" : {
+        "psr-4" : {
             "Saritasa\\Laravel\\": "src/"
         }
     },
