@@ -1,5 +1,5 @@
 {
-    "name": "saritasa/php-blade-directives",
+    "name": "saritasa/blade-directives",
     "type": "library",
     "description": "Saritasa custom blade directives",
     "keywords": ["laravel", "blade"],

@@ -2,15 +2,15 @@
 
 Custom Blade directives for Laravel Applications.
 
-See https://laravel.com/docs/5.4/blade
+See https://laravel.com/docs/blade
 
 
 ## Laravel 5.x
 
-Install the ``saritasa/php-blade-directives`` package:
+Install the ```saritasa/blade-directives``` package:
 
 ```bash
-$ composer require saritasa/php-blade-directives
+$ composer require saritasa/blade-directives
 ```
 
 Add the BladeDirectivesServiceProvider service provider ``config/app.php``:
