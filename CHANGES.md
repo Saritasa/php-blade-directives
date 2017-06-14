@@ -1,3 +1,5 @@
+# Changes History
+
 1.0.2
 -----
 Update dependencies versions
@@ -8,5 +10,4 @@ Changed package name
 
 1.0.0
 -----
-
-- Initial version: Directives @activeIfRoute, @selectedIf
+Initial version: Directives @activeIfRoute, @selectedIf
