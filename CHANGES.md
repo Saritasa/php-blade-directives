@@ -1,5 +1,9 @@
 # Changes History
 
+1.0.3
+------
+Enable Laravel's package discovery https://laravel.com/docs/5.5/packages#package-discovery
+
 1.0.2
 -----
 Update dependencies versions

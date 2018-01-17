@@ -1,9 +1,0 @@
-{
-  "providers": [
-    "Saritasa\Laravel\BladeDirectivesServiceProvider"
-  ],
-  "aliases": [
-    {
-    }
-  ]
-}
