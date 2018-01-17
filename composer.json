@@ -30,7 +30,7 @@
         },
         "laravel": {
             "providers": [
-                "Saritasa\\Laravel\\Providers\\BladeDirectivesServiceProvider"
+                "Saritasa\\Laravel\\BladeDirectivesServiceProvider"
             ]
         }
     }

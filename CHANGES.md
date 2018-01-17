@@ -1,5 +1,9 @@
 # Changes History
 
+1.0.4
+------
+Fix namespace in package discovery section
+
 1.0.3
 ------
 Enable Laravel's package discovery https://laravel.com/docs/5.5/packages#package-discovery
