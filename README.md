@@ -1,5 +1,7 @@
 # PHP Blade Directives
 
+[![Build Status](https://travis-ci.org/Saritasa/php-blade-directives.svg?branch=master)](https://travis-ci.org/Saritasa/php-blade-directives)
+
 Custom Blade directives for Laravel Applications.
 
 See https://laravel.com/docs/blade
