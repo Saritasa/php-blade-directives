@@ -1,6 +1,9 @@
 # PHP Blade Directives
 
 [![Build Status](https://travis-ci.org/Saritasa/php-blade-directives.svg?branch=master)](https://travis-ci.org/Saritasa/php-blade-directives)
+[![Release](https://img.shields.io/github/release/saritasa/php-blade-directives.svg)](https://github.com/Saritasa/php-blade-directives/releases)
+[![PHPv](https://img.shields.io/packagist/php-v/saritasa/blade-directives.svg)](http://www.php.net)
+[![Downloads](https://img.shields.io/packagist/dt/saritasa/blade-directives.svg)](https://packagist.org/packages/saritasa/blade-directives)
 
 Custom Blade directives for Laravel Applications.
 
