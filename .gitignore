@@ -1,4 +1,5 @@
 *.lock
+/*.yml
 package.xml
 /vendor
 .idea
