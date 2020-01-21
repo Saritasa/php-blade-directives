@@ -1,5 +1,9 @@
 # Changes History
 
+1.1.0
+-----
+Declare compatibility with Laravel 6
+
 1.0.4
 ------
 Fix namespace in package discovery section
