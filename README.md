@@ -1,6 +1,6 @@
 # PHP Blade Directives
 
-[![Build Status](https://travis-ci.org/Saritasa/php-blade-directives.svg?branch=master)](https://travis-ci.org/Saritasa/php-blade-directives)
+[![PHP CodeSniffer](https://github.com/Saritasa/php-blade-directives/workflows/PHP%20Codesniffer/badge.svg)](https://github.com/Saritasa/php-blade-directives/actions)
 [![Release](https://img.shields.io/github/release/saritasa/php-blade-directives.svg)](https://github.com/Saritasa/php-blade-directives/releases)
 [![PHPv](https://img.shields.io/packagist/php-v/saritasa/blade-directives.svg)](http://www.php.net)
 [![Downloads](https://img.shields.io/packagist/dt/saritasa/blade-directives.svg)](https://packagist.org/packages/saritasa/blade-directives)
